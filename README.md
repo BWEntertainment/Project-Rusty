@@ -9,7 +9,8 @@ Official page for the Rusty Hills RPG made by Broken World Entertainment.
 > Update 2 - Codename DASH
 > - Added the ability to "dash" forward. (Use the 'E' key)*
 > - Fixed a few backend bugs
-> More updates coming tomorrow!
+> * 'E' key for keyboard, 'X' button on XBOX controller, and 'Square' on DUALSHOCK 4 controller
+> Big update coming tomorrow!
 
 #### Changelog for v0.6
 > Update 1 - Codename EXISTENCE 
