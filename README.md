@@ -14,14 +14,7 @@ Official page for the Rusty Hills RPG made by Broken World Entertainment.
 > - Changed "dash" keybind to SHIFT on keyboard, still the same for controllers.
 > - This is the first update today, preparing for tonight's update. Stay tuned for that.
 
-#### Changelog for v0.7
-> Update 2 - Codename DASH
-> - Added the ability to "dash" forward. (Use the 'E' key)*
-> - Fixed a few backend bugs
-> - * 'E' key for keyboard, 'X' button on XBOX controller, and 'Square' on DUALSHOCK 4 controller
-> - Big update coming tomorrow!
-
-SEE PREVIOUS VERSION'S CHANGELOGS HERE: http://bit.ly/RHChangelogs
+**Non-latest changelogs have been moved:** http://bit.ly/RHChangelogs
 
 This game is in PRE-ALPHA. This means that the possibility of there being bugs/issues/etc is very likely. Please send me an email with *BUGS* that are game-breaking. Anything else may be fixed in the future. 
 
