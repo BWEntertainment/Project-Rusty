@@ -1,6 +1,5 @@
 ###Project Rusty
-> Project Rusty is the first, and a work-in-progress game title, created by Broken World Entertainment.
-<hr>
+Project Rusty is the first, and a work-in-progress game title, created by Broken World Entertainment.
 
 #### Table of Contents
 * [Team Members](#team-members)
@@ -9,7 +8,7 @@
 * [Information](#information)
 
 #### Team Members
-* "Ryan D." <brokenworldentertainment@outlook.com>
+* Ryan D. - <brokenworldentertainment@outlook.com>
 
 
 #### Downloads
