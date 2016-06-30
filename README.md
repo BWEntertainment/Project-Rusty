@@ -27,7 +27,7 @@ See Project Rusty's changelogs here: http://bit.ly/RHChangelogs
 
 #### Information
 
-Give us a tip to help support the development of great games! [Donate](https://www.paypal.me/minegg/5)
+**Give us a tip to help support the development of great games! [Give us a tip to help support the development of great games!](https://www.paypal.me/minegg/5)**
 
 **Help us title the game! http://bit.ly/NameProjectRusty**
 
