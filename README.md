@@ -1,5 +1,6 @@
 # RustyHills
-Official page for the Rusty Hills RPG made by Broken World Entertainment.
+Welcome to the official page for Project Rusty, a work-in-progress RPG made by Broken World Entertainment.
+See us on Twitter here: https://twitter.com/BrokenWorldEnt
 
 ### Downloads
 ###### Pre-Alpha v0.11 - [Download](http://adf.ly/1bhoCb) 
@@ -20,5 +21,7 @@ Codename BUG FIXES
 **Non-latest changelogs have been moved:** http://bit.ly/RHChangelogs
 
 This game is in PRE-ALPHA. This means that the possibility of there being bugs/issues/etc is very likely. Please send me an email with *BUGS* that are game-breaking. Anything else may be fixed in the future. 
+
+_Contact email_: **BrokenWorldEntertainment@outlook.com**
 
 Thank you!
