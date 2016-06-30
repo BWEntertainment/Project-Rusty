@@ -13,7 +13,7 @@ Project Rusty is the first, and a work-in-progress game title, created by Broken
 
 #### Downloads
 ##### Pre-Alpha v0.18 (Latest) - [Download](http://adf.ly/1bjW5f)
-##### Pre-Alpha v0.17 - [Download](http://adf.ly/1bjGul)
+###### Pre-Alpha v0.17 - [Download](http://adf.ly/1bjGul)
 ###### Pre-Alpha v0.16 - [Download](http://adf.ly/1bjCBR)
 ###### Pre-Alpha v0.15 - [Download](http://adf.ly/1bj2q8)
 ###### Pre-Alpha v0.11 - [Download](http://adf.ly/1bhoCb) 
