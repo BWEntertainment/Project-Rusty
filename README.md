@@ -27,6 +27,8 @@ See Project Rusty's changelogs here: http://bit.ly/RHChangelogs
 
 #### Information
 
+Give us a tip to help support the development of great games! [Donate](https://www.paypal.me/minegg/5)
+
 **Help us title the game! http://bit.ly/NameProjectRusty**
 
 This game is in PRE-ALPHA. This means that the possibility of there being bugs/issues/etc is very likely. Please send me an email with *BUGS* that are game-breaking. Anything else may be fixed in the future. 
