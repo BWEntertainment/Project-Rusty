@@ -1,4 +1,4 @@
-# RustyHills
+# Project Rusty
 Welcome to the official page for Project Rusty, a work-in-progress RPG made by Broken World Entertainment.
 See us on Twitter here: https://twitter.com/BrokenWorldEnt
 
