@@ -12,7 +12,8 @@ Project Rusty is the first, and a work-in-progress game title, created by Broken
 
 
 #### Downloads
-##### Pre-Alpha v0.11 - [Download](http://adf.ly/1bhoCb) 
+##### Pre-Alpha v0.15 - [Download](http://adf.ly/1bj2q8)
+###### Pre-Alpha v0.11 - [Download](http://adf.ly/1bhoCb) 
 ###### Pre-Alpha v0.10 - [Download](http://adf.ly/1bhgsp)
 ###### Pre-Alpha-DEV v0.9 - Download | Not available for public download.
 ###### Pre-Alpha v0.8 - [Download](http://adf.ly/1bhMib) | In order to support development, no more direct DL's, sorry!
@@ -21,9 +22,9 @@ Project Rusty is the first, and a work-in-progress game title, created by Broken
 
 #### Changelogs
 _Latest version only. See [Information](#information) for details._
-> - Fixed the bug that occurred when the player attacked in another direction that they were facing
-> - Improved how the game handles the way the player is facing
-> - Several other bug-fixes and improvements for the back-end
+> - Enemy slimes can now attack and kill you (takes three hits)
+> - Slimes have a slight cooldown after hitting you, to allow you to recover before being hit again
+> * As you can see in the version, this is 0.15.1. The .1 at the end of an update will now mean it’s version of the update shown before it. For example, 0.15.1 is the first part of the update 0.15
 
 #### Information
 
