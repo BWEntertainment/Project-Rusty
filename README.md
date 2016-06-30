@@ -4,10 +4,10 @@
 
 #### Table of Contents
 <hr>
-*[Team Members](#team-members)
-*[Downloads](#downloads)
-*[Changelogs](#changelogs)
-*[Information](#information)
+* [Team Members](#team-members)
+* [Downloads](#downloads)
+* [Changelogs](#changelogs)
+* [Information](#information)
 
 #### Team Members
 <hr>
